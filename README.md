@@ -1,6 +1,10 @@
 
 > Abra esta pagina en [https://profefdv.github.io/sensoragitacion/](https://profefdv.github.io/sensoragitacion/)
 
+## Descripción 
+ Mostrar cara sorprendido cuando se agita el Microbit ".<br>
+ Cuando el microbit no se agita, muestra una fecha rotando.
+ 
 ## Usar como extensión
 
 Este repositorio puede ser añadido como una **extensión** en MakeCode.
